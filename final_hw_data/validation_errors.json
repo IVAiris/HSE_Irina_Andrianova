@@ -1,0 +1,44 @@
+[
+  {
+    "publisher_inn": "",
+    "case_number": "А60-24680/2025",
+    "errors": [
+      "Отсутствует поле 'publisher_inn'"
+    ]
+  },
+  {
+    "publisher_inn": "7701234567",
+    "case_number": "А60-36925/2025",
+    "errors": [
+      "Отсутствует поле 'date_published'"
+    ]
+  },
+  {
+    "publisher_inn": "7702345678",
+    "case_number": "А60-25814/2025",
+    "errors": [
+      "Отсутствует поле 'type'"
+    ]
+  },
+  {
+    "publisher_inn": "7705",
+    "case_number": "А60-12345/2025",
+    "errors": [
+      "ИНН должен состоять из 10 или 12 цифр"
+    ]
+  },
+  {
+    "publisher_inn": "6658123450",
+    "case_number": "А60-56789/2025",
+    "errors": [
+      "Дата публикации не парсится"
+    ]
+  },
+  {
+    "publisher_inn": "7703901234",
+    "case_number": "",
+    "errors": [
+      "Отсутствует поле 'case_number'"
+    ]
+  }
+]
